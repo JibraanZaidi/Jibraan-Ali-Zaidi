@@ -1,0 +1,33 @@
+Task 9 – BFS Traversal of Tree
+
+Description:
+This task demonstrates Breadth First Search (BFS) traversal of a binary tree. Unlike DFS which goes deep first, BFS explores nodes level by level.
+
+Tree Structure:
+
+        1
+      /   \
+     2     3
+    / \   / \
+   4   5 6   7
+
+
+Code Explanation:
+
+The tree is represented as an adjacency list (dictionary).
+
+A BFS function is implemented recursively.
+
+It takes the current level’s nodes, visits them, and prepares the list for the next level.
+
+The process continues until all levels are traversed.
+
+Key Points of BFS:
+
+Visits all nodes at depth d before moving to depth d+1.
+
+Useful in shortest path algorithms and AI search problems.
+
+Example Output:
+
+1 2 3 4 5 6 7
