@@ -1,0 +1,9 @@
+Task 3: Sort Words Alphabetically
+
+This task implements a program that sorts words in a string in **alphabetical order**.
+
+- The user enters a string.  
+- The string is split into individual words.  
+- All words are converted to lowercase for uniform comparison.  
+- A simple **bubble sort** algorithm is applied to arrange the words.  
+- Finally, the sorted words are printed one by one.
