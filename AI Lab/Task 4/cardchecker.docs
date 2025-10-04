@@ -1,0 +1,13 @@
+Task 6: Luhn Algorithm (Credit Card Validation)
+
+This task implements the **Luhn algorithm**, which is widely used to validate credit/debit card numbers.
+
+## Steps:
+1. The program takes input of a card number (with or without spaces/dashes).
+2. It removes all spaces and dashes, then reverses the string.
+3. Two sums are calculated:
+   - **Odd digits**: Directly summed.
+   - **Even digits**: Doubled; if the result is greater than 9, subtract 9.
+4. The total sum is checked:
+   - If divisible by 10 → The card number is **Valid**.
+   - Otherwise → The card number is **Not Valid**.
