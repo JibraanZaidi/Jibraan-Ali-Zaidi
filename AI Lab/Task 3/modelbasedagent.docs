@@ -1,1 +1,33 @@
+Task 7: Model-Based Reflex Agent
 
+This task demonstrates a **Model-Based Reflex Agent** that controls a heater depending on the room temperature compared to a demanding (desired) temperature.  
+It also remembers the **previous action** to avoid unnecessary changes.
+
+## Features:
+- Reads the demanding temperature (e.g., 22°C).
+- Compares the **current room temperature** with the demanding temperature.
+- Actions:
+  - If room temperature < demanding temperature → **Heater ON**
+  - If room temperature ≥ demanding temperature → **Heater OFF**
+- Uses a file (`previous_action.txt`) to store and recall the last action.
+- If the action is the same as the previous one, it maintains the state with a message:
+  > "There will be no change and maintain the previous action"
+
+## Example:
+### Input:
+```python
+rooms = {
+    "Class Room": 20,
+    "Auditorium": 22,
+    "Office": 25,
+    "Common Room": 19,
+    "Main Department": 22,
+    "Admission Office": 22
+}
+
+agent = ModelBasedReflexAgent(22)
+
+for room, temp in rooms.items():
+    agent.Sensor(temp)
+    print(room, ":", end=" ")
+    agent.Actuator()
