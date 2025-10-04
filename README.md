@@ -1,39 +1,66 @@
+<h1 align="center">Hi, I'm Jibraan Ali Zaidi👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0F172A&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Jibraan+Ali+Zaidi;Welcome+to+my+GitHub+Profile!;Student+%7C+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=20B2AA&center=true&width=500&lines=Unlocking+AI+Potential+IN+BSAI;Python+Developer;Flask+Specialist;ML+Model+Trainer;Data+Vistualizer;Graphics+Designer;Video+Editor!">
 </p>
 
 ---
 
-### 👋 About Me
-- 🎓 Student, learning and exploring new technologies.  
-- 💻 Passionate about software development and problem-solving.  
-- 🌱 Currently working on projects in Python, Streamlit, and Machine Learning.  
-- 🚀 Always open to collaborations and learning opportunities.
-
----
-
-### 🔧 Skills & Technologies
+<h3 align="center"> 🚀 About Me </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,github,vscode" />
+I’m a passionate Ai Engineer with a focus on Machine Learning, Python development. With experience in creating innovative AI projects and building dynamic web applications using Flask, I thrive on solving real-world problems.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center"> 🔥 Highlights </h3>
+
+- 💻 *Experienced Machine Learning Engineer* with a focus on real-time AI solutions
+---
+
+<h3 align="center"> 🚀 Skills & Technologies </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JibraanZaidi&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibraanZaidi&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,html,css,flask,github,php,linux,vscode,git" alt="skills" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
+<h3 align="center"> 📊 GitHub Stats </h3>
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ALIJATT01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JibraanZaidi&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibraanZaidi&layout=compact&hide_border=true&theme=algolia" />
 </p>
 
 ---
 
-✨ *Thanks for visiting my profile!* ✨
+<h3 align="center"> 🏆 Trophies & Achievements </h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JibraanZaidi&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+<h3 align="center"> 🔧 Tools I Use </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,ps,ai,blender" alt="tools" />
+</p>
+
+---
+<h3 align="center"> 🌐 Let's Connect! </h3>
+<p align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- ---
+
+<!-- <h3 align="center"> 📈 Weekly Development Breakdown </h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmad0702&color=blue&style=flat-square" alt="Profile Views" />
+</p>
