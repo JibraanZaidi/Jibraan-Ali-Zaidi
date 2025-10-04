@@ -1,0 +1,12 @@
+Task 5: Remove Punctuations from String
+
+This task demonstrates how to remove punctuation characters from a given text string.
+
+- A predefined list of punctuations is created:
+!()-[]{};:'",<>./?@#$%^&*_~
+
+- The program defines a function `remove_punctuation(text)` which:
+- Iterates through each character of the string.
+- Removes any character that belongs to the punctuation list.
+- A sample string is provided:
+"Hello, Jibraan Zaidi kas'a ho! bha'i? kia kry/// ho?"
