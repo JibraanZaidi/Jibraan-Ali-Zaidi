@@ -1,0 +1,34 @@
+Task 9 – BFS Traversal (Queue Implementation)
+
+Description:
+This task demonstrates Breadth First Search (BFS) traversal using a queue data structure.
+Unlike recursive BFS, here nodes are stored in a queue and processed in First In First Out (FIFO) order.
+
+Tree Structure:
+
+        1
+      /   \
+     2     3
+    / \   / \
+   4   5 6   7
+
+
+Working of the Code:
+
+Start with the root node "1".
+
+Add it to the visited list and queue.
+
+While the queue is not empty:
+
+Dequeue the first element.
+
+Print it (visit).
+
+Enqueue all its unvisited neighbors.
+
+Repeat until the queue becomes empty.
+
+Example Output:
+
+1 2 3 4 5 6 7
